@@ -40,7 +40,7 @@ File: `OrangeHRMDashboardPage.cy.js`
   - Distribution by Location Widget  
   - Hyperlink OrangeHRM, Inc  
 - TC_Dashboard_002 – Verifikasi menu sidebar (expand/collapse)  
-- TC_Dashboard_003 – Verifikasi User Menu (dropdown: About, Support, Logout)
+- TC_Dashboard_003 – Verifikasi User Menu (dropdown: About, Support, Change Password & Logout)
 
 Page Object Model (POM)
 
