@@ -30,7 +30,7 @@ describe('OrangeHRM POM Login Page', () => {
     dashboardPage.clickmenuButton()
     })
 
-  it('TC_Dashboard_003 - Check Fungsi Search Bar', () => {
+  it('TC_Dashboard_004 - Check Fungsi Search Bar', () => {
     loginPage.inputUsername(Data.loginValid.username)
     loginPage.inputPassword(Data.loginValid.password)
     loginPage.clickloginButton()
